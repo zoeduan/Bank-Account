@@ -1,2 +1,2 @@
 # Bank-Account
-Bank Account Application in JAVA 
+Bank Account Application in Java 
